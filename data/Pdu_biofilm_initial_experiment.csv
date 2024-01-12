@@ -1,0 +1,43 @@
+﻿age,time_after_induction,Treatment,crawl_coverslip,%_crawl_coverslip
+3.5,12,Biofilm,8,26.66666667
+3.5,12,Biofilm,12,40
+3.5,12,Biofilm,5,16.66666667
+3.5,12,No biofilm control,0,0
+3.5,12,No biofilm control,0,0
+3.5,12,No biofilm control,0,0
+4,24,Biofilm,18,60
+4,24,Biofilm,15,50
+4,24,Biofilm,16,53.33333333
+4,24,No biofilm control,1,3.333333333
+4,24,No biofilm control,3,10
+4,24,No biofilm control,3,10
+4.5,36,Biofilm,24,80
+4.5,36,Biofilm,24,80
+4.5,36,Biofilm,21,70
+4.5,36,No biofilm control,2,6.666666667
+4.5,36,No biofilm control,6,20
+4.5,36,No biofilm control,5,16.66666667
+5,48,Biofilm,23,76.66666667
+5,48,Biofilm,17,56.66666667
+5,48,Biofilm,17,56.66666667
+5,48,No biofilm control,9,30
+5,48,No biofilm control,5,16.66666667
+5,48,No biofilm control,6,20
+5,60,Biofilm,19,63.33333333
+5,60,Biofilm,23,76.66666667
+5,60,Biofilm,23,76.66666667
+5,60,No biofilm control,3,10
+5,60,No biofilm control,6,20
+5,60,No biofilm control,6,20
+6.25,78,Biofilm,16,53.33333333
+6.25,78,Biofilm,19,63.33333333
+6.25,78,Biofilm,15,50
+6.25,78,No biofilm control,1,3.333333333
+6.25,78,No biofilm control,3,10
+6.25,78,No biofilm control,8,26.66666667
+7.25,102,Biofilm,20,66.66666667
+7.25,102,Biofilm,16,53.33333333
+7.25,102,Biofilm,16,53.33333333
+7.25,102,No biofilm control,4,13.33333333
+7.25,102,No biofilm control,3,10
+7.25,102,No biofilm control,7,23.33333333
